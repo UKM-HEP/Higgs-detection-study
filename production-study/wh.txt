@@ -1,0 +1,10 @@
+import model sm
+define w = w+ w-
+generate p p > w h
+output wh
+launch
+0
+set nevents 1
+set ebeam 13500
+set MH scan:[10*i for i in range(1,10)]
+0
