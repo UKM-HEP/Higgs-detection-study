@@ -4,7 +4,7 @@ Using CMS Open Data
 
 ## Higgs to four lepton Analysis
 
-   - [Opendata Analysis](https://opendata.cern.ch/record/12360)
+   - [Opendata Analysis](https://opendata.cern.ch/record/12360]
    - [Github](https://github.com/cms-opendata-analyses/HiggsToFourLeptonsNanoAODOutreachAnalysis)
 
 ## Higgs to a pair of tau Analysis
