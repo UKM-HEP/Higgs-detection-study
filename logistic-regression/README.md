@@ -6,4 +6,7 @@ The data set consists of 11 million simulated events using the official ATLAS fu
 
 Each event is described by 28 different features, such as the estimated mass of the Higgs boson candidate or the missing transverse energy.
 
-Source: [https://www.neuraldesigner.com/learning/examples/higgs](Detection of the Higgs boson using machine learning) 
+Source: 
+- [Detection of the Higgs boson using machine learning](https://www.neuraldesigner.com/learning/examples/higgs)
+- [Higgs datasets](http://archive.ics.uci.edu/ml/datasets/HIGGS)
+- [Searching for Exotic Particles in High-energy Physics with Deep Learning.](https://www.nature.com/articles/ncomms5308)
