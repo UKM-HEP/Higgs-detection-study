@@ -1,0 +1,9 @@
+import model loop_sm
+generate p p > h [QCD]
+output ggF
+launch
+0
+set nevents 1
+set ebeam 6500
+set MH scan:[10*i for i in range(9,100)]
+0
